@@ -1,2 +1,2 @@
 # QuantAI-Werbung
- Goffy
+ gustav ist Goffy
